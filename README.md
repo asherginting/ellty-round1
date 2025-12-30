@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<a href="https://www.ellty.com/">
+    <img src="https://i.ibb.co.com/0jzKv3mz/518201116-9ebb0d90-b4f8-492f-af0a-b88ebccf3a32.png" height="50" alt="Ellty-Logo" title="Ellty" align="right" />
+</a>
 
-## Getting Started
+# First Test Assignment
 
-First, run the development server:
+Round 1
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+[![img](https://i.ibb.co.com/Q3QZkNLQ/image.png)](#)
+
+<br>
+
+## ⌛️ Installation
+
+1. Clone this repo
+```
+git@github.com:asherginting/ellty-round1.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. cd folder
+```
+ellty-round1
+```
+3. Install module
+```
+pnpm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+4. Done, ```pnpm run dev``` to run the project
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<br>
 
-## Learn More
+Runs the app default in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-To learn more about Next.js, take a look at the following resources:
+<br>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ⛏️ Built Using
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [Next Js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vercel](https://vercel.com/)
+  
+<br>
 
-## Deploy on Vercel
+## ✍️ Authors
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [@asherginting](https://github.com/asherginting)
